@@ -1,4 +1,4 @@
-# crabber
+# 捕蟹人 - crabber
 the telegram bot for crabs
 
 
